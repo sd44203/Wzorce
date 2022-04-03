@@ -1,2 +1,4 @@
 # Wzorce
-ZUT
+
+Kaczki - strategia
+Pogodynka - obserwator
