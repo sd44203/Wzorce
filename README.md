@@ -1,4 +1,4 @@
 # Wzorce
 
-Kaczki - strategia \n
-Pogodynka - obserwator
+# Kaczki - strategia
+# Pogodynka - obserwator
